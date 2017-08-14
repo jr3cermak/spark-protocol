@@ -23,7 +23,7 @@
         "when": "*",
         "moment": "*",
         "xtend": "*"
-    }
+    },
     "contributors": [
             {
                     "name": "Rob Cermak",
